@@ -29,7 +29,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 bot = telebot.TeleBot('7145220536:AAGlrEjHvnqBfIP9RyuubvWRPPDjJL6Upmw')
 
 # Insert your admin id here
-admin_id = ["1908670857","1079846534"]
+admin_id = ["1908670857","1079846534","6736492670"]
 
 # Files for data storage
 USER_FILE = "users.json"
